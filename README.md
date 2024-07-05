@@ -19,9 +19,9 @@ Este projeto tem como objetivo desenvolver uma aplicação de uma plataforma res
 
 ## 📫 Contribuindo 
 
-Para contribuir com Alura Books, siga estas etapas:
+Para contribuir com Sabor Express, ou simplesmente clonar e testar em sua máquina, siga estas etapas:
 
-1. Bifurque este repositório.
+1. Bifurque este repositório e clone para sua máquina.
 2. Crie um branch: `git checkout -b <nome_branch>`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
