@@ -1,5 +1,5 @@
 # Sabor Express
-Este projeto tem como objetivo desenvolver uma aplicação de uma plataforma responsável por gerenciar um determinado grupo de restaurantes. 
+Este projeto tem como objetivo desenvolver uma aplicação responsável por gerenciar um determinado grupo de restaurantes. 
 É uma aplicação simples que aborda conceitos como: Funções, uso de bibliotecas, tratamento de exceção, listas, loops e dicionário. 
 
 <br>
